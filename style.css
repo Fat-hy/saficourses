@@ -240,7 +240,7 @@ ol {
 footer {
   position: fixed;
   bottom: 0;
-  padding: 1rem;
+  padding: 10px;
   font-size: 1rem;
   display: flex;
   justify-content: space-around;
