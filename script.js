@@ -8,11 +8,6 @@ let openBtns = document.querySelectorAll(".open");
 let closedBtns = document.querySelectorAll(".closed");
 let dialog = document.querySelector(".dialog");
 
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("DOM HAS LOADED");
-  addJSON();
-  dialogModal();
-});
 document.querySelector(".logo").addEventListener("click", () => {
   location.reload();
 });
@@ -76,8 +71,8 @@ function addJSON() {
     });
 }
 
-// addJSON();
-// dialogModal();
+addJSON();
+dialogModal();
 
 function createModal(department) {
   // Create the modal structure
