@@ -24,6 +24,19 @@ body {
   justify-content: space-evenly
 }
 
+.error>* {
+  color: #ea1414;
+  text-align: center;
+}
+
+#refresh-button {
+  text-decoration: underline;
+}
+
+#refresh-button:hover {
+  color: #fff;
+}
+
 /* Nav  */
 
 
