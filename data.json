@@ -1,0 +1,178 @@
+{
+  "departments": [
+    {
+      "name": "Islamic Studies",
+      "courses": [
+        {
+          "name": "Introduction to Islamic Studies",
+          "synopsis": "An introductory course providing an overview of the fundamental principles, beliefs, and practices of Islam."
+        },
+        {
+          "name": "Islamic Jurisprudence",
+          "synopsis": "A study of Islamic legal principles and their applications in various areas of personal and social life."
+        },
+        {
+          "name": "Quranic Studies",
+          "synopsis": "An exploration of the Quran, its language, interpretation, and its relevance to contemporary issues."
+        },
+        {
+          "name": "Islamic Theology",
+          "synopsis": "A study of theological concepts and debates within Islamic tradition."
+        },
+        {
+          "name": "Islamic Ethics",
+          "synopsis": "An examination of ethical principles and moral frameworks in Islam."
+        },
+        {
+          "name": "Comparative Religion",
+          "synopsis": "A comparative study of Islam with other major world religions."
+        }
+      ]
+    },
+    {
+      "name": "Arabic Language",
+      "courses": [
+        {
+          "name": "Arabic Grammar",
+          "synopsis": "A comprehensive study of Arabic grammar rules and structures."
+        },
+        {
+          "name": "Arabic Literature",
+          "synopsis": "An examination of classical and modern Arabic literature, including poetry and prose."
+        },
+        {
+          "name": "Translation and Interpretation",
+          "synopsis": "Training in translating and interpreting between Arabic and other languages."
+        },
+        {
+          "name": "Arabic Linguistics",
+          "synopsis": "An in-depth analysis of the linguistic aspects of the Arabic language."
+        },
+        {
+          "name": "Arabic Calligraphy",
+          "synopsis": "Practical instruction in the art of Arabic calligraphy."
+        },
+        {
+          "name": "Arabic Media and Journalism",
+          "synopsis": "Exploring Arabic media landscape and journalistic practices in the Arab world."
+        }
+      ]
+    },
+    {
+      "name": "Islamic History",
+      "courses": [
+        {
+          "name": "Early Islamic History",
+          "synopsis": "A survey of the political, social, and cultural developments of the early Islamic period."
+        },
+        {
+          "name": "Biography of Prophet Muhammad",
+          "synopsis": "In-depth study of the life and teachings of Prophet Muhammad, peace be upon him."
+        },
+        {
+          "name": "History of Islamic Civilization",
+          "synopsis": "An exploration of the major historical events and contributions of the Islamic civilization."
+        },
+        {
+          "name": "Islamic Art and Architecture",
+          "synopsis": "An examination of the artistic and architectural traditions of the Islamic world."
+        },
+        {
+          "name": "Islamic Intellectual History",
+          "synopsis": "Study of influential thinkers and intellectual movements in Islamic history."
+        },
+        {
+          "name": "Islamic Empires and Dynasties",
+          "synopsis": "An overview of the prominent Islamic empires and dynasties throughout history."
+        }
+      ]
+    },
+    {
+      "name": "Islamic Finance",
+      "courses": [
+        {
+          "name": "Principles of Islamic Finance",
+          "synopsis": "An introduction to the principles and concepts of Islamic finance."
+        },
+        {
+          "name": "Islamic Banking",
+          "synopsis": "A study of banking operations and financial instruments compliant with Islamic principles."
+        },
+        {
+          "name": "Islamic Insurance (Takaful)",
+          "synopsis": "Exploring the principles and practices of Islamic insurance (Takaful)."
+        },
+        {
+          "name": "Islamic Capital Markets",
+          "synopsis": "An examination of Islamic financial instruments and capital market operations."
+        },
+        {
+          "name": "Islamic Wealth Management",
+          "synopsis": "A study of wealth management and investment strategies in line with Islamic principles."
+        },
+        {
+          "name": "Islamic Financial Planning",
+          "synopsis": "Practical guidance on financial planning and personal finance within an Islamic framework."
+        }
+      ]
+    },
+    {
+      "name": "Islamic Law",
+      "courses": [
+        {
+          "name": "Introduction to Islamic Law",
+          "synopsis": "An overview of the principles, sources, and methodology of Islamic law."
+        },
+        {
+          "name": "Family Law in Islam",
+          "synopsis": "A study of Islamic laws pertaining to marriage, divorce, and family relationships."
+        },
+        {
+          "name": "Criminal Law in Islam",
+          "synopsis": "Exploring the criminal justice system and punishments in Islamic legal tradition."
+        },
+        {
+          "name": "Commercial Law in Islam",
+          "synopsis": "An examination of Islamic commercial law principles and contract regulations."
+        },
+        {
+          "name": "Islamic Legal Theory",
+          "synopsis": "Study of legal theories and schools of thought within the Islamic legal framework."
+        },
+        {
+          "name": "Legal Maxims in Islamic Law",
+          "synopsis": "An exploration of legal maxims and principles used in Islamic legal reasoning."
+        }
+      ]
+    },
+    {
+      "name": "Islamic Education",
+      "courses": [
+        {
+          "name": "Teaching Methodologies in Islamic Education",
+          "synopsis": "Exploring effective teaching methods and strategies in the context of Islamic education."
+        },
+        {
+          "name": "Curriculum Development in Islamic Education",
+          "synopsis": "Designing and developing curriculum materials for Islamic educational institutions."
+        },
+        {
+          "name": "Assessment and Evaluation in Islamic Education",
+          "synopsis": "An examination of assessment techniques and evaluation methods in Islamic education."
+        },
+        {
+          "name": "Educational Psychology in Islamic Education",
+          "synopsis": "Applying psychological principles and theories to enhance teaching and learning in Islamic education."
+        },
+        {
+          "name": "Special Needs Education in Islamic Context",
+          "synopsis": "Addressing the educational needs and inclusion of students with special needs in Islamic educational settings."
+        },
+        {
+          "name": "Leadership and Management in Islamic Education",
+          "synopsis": "Developing leadership skills and management strategies for effective administration of Islamic educational institutions."
+        }
+      ]
+    }
+  ]
+}
