@@ -9,13 +9,18 @@ let closedBtns = document.querySelectorAll(".closed");
 let dialog = document.querySelector(".dialog");
 
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("DOMContentLoaded");
+  console.log("DOM HAS LOADED");
+  addJSON();
+  dialogModal();
+});
+document.querySelector(".logo").addEventListener("click", () => {
+  location.reload();
 });
 
 function addJSON() {
   const spinner = document.querySelector(".spinner");
   spinner.style.display = "block"; // Display the loading spinner
-  fetch("http://127.0.0.1:5501/data.json")
+  fetch("https://saficourses.netlify.app/data.json")
     .then((response) => response.json())
     .then((data) => {
       console.log(data);
@@ -53,12 +58,26 @@ function addJSON() {
     })
     .catch((error) => {
       console.error("Error:", error);
+      let refreshBtn = document.querySelector("#refresh-button");
+      let errorDiv = document.createElement("div");
       spinner.style.display = "none";
+      errorDiv.innerHTML = `<dialog open class="dialog lists modal-content error">
+      <h1>404...FAILED TO LOAD RESOURCES</h1>
+      <p>
+        Failed to fetch data. Please
+        <i id="refresh-button">refresh</i> or try again later.
+      </p>
+    </dialog>`;
+      pageWrap.append(errorDiv);
+      const refreshButton = document.querySelector("#refresh-button");
+      refreshButton.addEventListener("click", () => {
+        location.reload(); // Reload the page
+      });
     });
 }
 
-addJSON();
-dialogModal();
+// addJSON();
+// dialogModal();
 
 function createModal(department) {
   // Create the modal structure
