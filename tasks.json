@@ -1,0 +1,182 @@
+[
+  {
+    "event": "Explore Petra - Ancient City Tour",
+    "date": "2023-08-15",
+    "time": "08:00",
+    "place": "Petra, Jordan",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Ali", "Leila", "Omar", "Nadia"]
+  },
+  {
+    "event": "Jumma Prayer at Sheikh Zayed Grand Mosque",
+    "date": "2023-08-18",
+    "time": "12:30",
+    "place": "Abu Dhabi, UAE",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Mohammed", "Ayesha", "Hamza", "Sana"]
+  },
+  {
+    "event": "Serengeti Safari Adventure",
+    "date": "2023-08-25",
+    "time": "06:00",
+    "place": "Serengeti National Park, Tanzania",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Juma", "Amina", "Hassan", "Zainab"]
+  },
+  {
+    "event": "Stone Town Cultural Walking Tour",
+    "date": "2023-09-02",
+    "time": "09:00",
+    "place": "Zanzibar, Tanzania",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Said", "Zara", "Ali", "Halima"]
+  },
+  {
+    "event": "Global Business Summit 2023",
+    "date": "2023-09-10",
+    "time": "08:30",
+    "place": "Dubai, UAE",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Faisal", "Sara", "Rania", "Hamad"]
+  },
+  {
+    "event": "Al-Masjid an-Nabawi Visit",
+    "date": "2023-09-17",
+    "time": "09:00",
+    "place": "Medina, Saudi Arabia",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Abdullah", "Noura", "Salem", "Hala"]
+  },
+  {
+    "event": "Kilimanjaro Trekking Expedition",
+    "date": "2023-10-10",
+    "time": "06:00",
+    "place": "Kilimanjaro, Tanzania",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Hassan", "Naima", "Aisha", "Jamal"]
+  },
+  {
+    "event": "Burj Khalifa Observation Deck",
+    "date": "2023-10-18",
+    "time": "15:30",
+    "place": "Dubai, UAE",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Ibrahim", "Farida", "Rashid", "Lina"]
+  },
+  {
+    "event": "Saudi International Trade Fair",
+    "date": "2023-11-05",
+    "time": "10:00",
+    "place": "Riyadh, Saudi Arabia",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Khaled", "Yasmin", "Hassan", "Layla"]
+  },
+  {
+    "event": "Dhow Cruise Dinner at Dubai Creek",
+    "date": "2023-11-15",
+    "time": "19:00",
+    "place": "Dubai, UAE",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Rashid", "Mariam", "Saeed", "Noura"]
+  },
+  {
+    "event": "UAE National Day Celebration",
+    "date": "2023-12-02",
+    "time": "19:30",
+    "place": "Dubai, UAE",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Ahmed", "Layla", "Rashid", "Aisha"]
+  },
+  {
+    "event": "Makame Wildlife Sanctuary Tour",
+    "date": "2023-12-10",
+    "time": "08:00",
+    "place": "Zanzibar, Tanzania",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Said", "Zara", "Ali", "Halima"]
+  },
+  {
+    "event": "Saudi International Book Fair",
+    "date": "2023-12-15",
+    "time": "10:00",
+    "place": "Riyadh, Saudi Arabia",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Khaled", "Yasmin", "Hassan", "Layla"]
+  },
+  {
+    "event": "Zanzibar Food and Spice Festival",
+    "date": "2024-01-05",
+    "time": "18:30",
+    "place": "Zanzibar, Tanzania",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Juma", "Amina", "Hassan", "Zainab"]
+  },
+  {
+    "event": "Jeddah Waterfront Sculpture Park",
+    "date": "2024-01-15",
+    "time": "15:00",
+    "place": "Jeddah, Saudi Arabia",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Ibrahim", "Farida", "Rashid", "Lina"]
+  },
+  {
+    "event": "Dubai Desert Safari",
+    "date": "2024-02-10",
+    "time": "14:00",
+    "place": "Dubai, UAE",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Khalid", "Mariam", "Rashid", "Layla"]
+  },
+  {
+    "event": "Family Reunion in Dar es Salaam",
+    "date": "2024-02-20",
+    "time": "11:00",
+    "place": "Dar es Salaam, Tanzania",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Hassan", "Naima", "Aisha", "Jamal", "Sana", "Farid"]
+  },
+  {
+    "event": "Jabal Al-Noor Hike",
+    "date": "2024-03-05",
+    "time": "07:00",
+    "place": "Mecca, Saudi Arabia",
+    "completed": false,
+    "repeat": true,
+    "attendees": ["Mohammed", "Ayesha", "Hamza", "Sana"]
+  },
+  {
+    "event": "Tanzanian Arts and Crafts Fair",
+    "date": "2024-03-20",
+    "time": "10:00",
+    "place": "Dar es Salaam, Tanzania",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Rashid", "Mariam", "Saeed", "Noura"]
+  },
+  {
+    "event": "Dubai Expo 2024",
+    "date": "2024-04-10",
+    "time": "09:00",
+    "place": "Dubai, UAE",
+    "completed": false,
+    "repeat": false,
+    "attendees": ["Faisal", "Sara", "Rania", "Hamad"]
+  }
+]
